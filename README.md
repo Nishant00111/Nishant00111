@@ -16,8 +16,9 @@
 <p align="left">
 <a href="https://linkedin.com/in/nishant-4b9528237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-4b9528237" height="30" width="40" /></a>
 <a href="https://instagram.com/thakur_nishant_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur_nishant_0001" height="30" width="40" /></a>
-<a href="https://nishant00111.github.io/portfolio/" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/portfolio.svg" alt="Portfolio" height="30" width="40" />
+<a href="https://nishant00111.github.io/portfolio/" target="_blank" class="social-link">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=website&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo">
+</a>
 </a>
 </a>
 </a>
