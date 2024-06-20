@@ -15,7 +15,7 @@
     <p>To connect with me, you can find my professional profile and contact details on LinkedIn. Feel free to reach out for collaborations, oppurtunities, or just to exchange ideas about the latest in software development and technology. Let's innovate together!</p>
 </div>
     <!-- Replace href with your links -->
-    <a href="[https://www.linkedin.com/in/grmk/](https://www.linkedin.com/in/nishant-4b9528237/)">
+    <a href="https://www.linkedin.com/in/nishant-4b9528237/">
         <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" alt="LinkedIn"/>
     </a>
       <a href="discordapp.com/users/mohan.krishna" >
