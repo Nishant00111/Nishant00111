@@ -1,4 +1,4 @@
- ## Hi there 👋
+ ## Hi Friends ! 👋
 
 <div align="center">
    <h1>
@@ -56,9 +56,6 @@
 
   </div>
 
-
-
-Here are some ideas to get you started: 
 
 <!--**Nishant00111/Nishant00111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
