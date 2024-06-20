@@ -54,10 +54,6 @@
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
   <img src="https://raw.githubusercontent.com/mlflow/mlflow/master/docs/source/images/mlflow-logo-final-black.png" title="MLflow" alt="MLflow" width="40" height="40"/>&nbsp;
-
-
-
-    
 </div>
 
 
