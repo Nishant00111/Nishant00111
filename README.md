@@ -21,7 +21,7 @@
   <a href="mailto:nishant99885@gmail.com" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
    <a href="https://nishant00111.github.io/portfolio/" target="_blank" class="portfolio-badge">
-  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=website&label=&color=black&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo">
+  <img src="https://img.shields.io/static/v1?message=Portfolio&logo=website&label=&color=grey&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo">
 </a>
 </div>
 
