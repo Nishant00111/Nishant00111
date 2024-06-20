@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nishant</h1
-<center>
+<h3 align="center">I'm a Computer Science Engineer specializing in Data Science, Artificial Intelligence, Machine Learning, Deep Learning. With a huge combinations of many MLOPS and DEVOPS.</h3>
+<div style="text-align: center;">
   <a href="https://nishant00111.github.io/portfolio/" target="_blank" class="portfolio-badge">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=website&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo">
   </a>
-</center>
-<h3 align="center">I'm a Computer Science Engineer specializing in Data Science, Artificial Intelligence, Machine Learning, Deep Learning. With a huge combinations of many MLOPS and DEVOPS.</h3>
+</div>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nishant00111&label=Profile%20views&color=0e75b6&style=flat" alt="nishant00111" /> </p>
