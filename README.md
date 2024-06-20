@@ -23,21 +23,6 @@
    <a href="https://nishant00111.github.io/portfolio/" target="_blank" class="portfolio-badge">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=website&label=&color=blue&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo">
 </a>
-
-<style>
-  .portfolio-badge {
-    display: inline-block;
-    position: relative;
-    overflow: hidden;
-    transition: transform 0.3s ease;
-  }
-  
-  .portfolio-badge:hover {
-    transform: scale(1.1);
-  }
-</style>
-
-  </a>
 </div>
 
 
