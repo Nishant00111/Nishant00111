@@ -1,9 +1,9 @@
-<h1 align="center">Hi 👋, I'm Nishant</h1>
-<div style="text-align: center;">
-  <a href="https://nishant00111.github.io/portfolio/" target="_blank" class="social-link">
+<h1 align="center">Hi 👋, I'm Nishant</h1
+<center>
+  <a href="https://nishant00111.github.io/portfolio/" target="_blank" class="portfolio-badge">
     <img src="https://img.shields.io/static/v1?message=Portfolio&logo=website&label=&color=333333&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo">
   </a>
-</div>
+</center>
 <h3 align="center">I'm a Computer Science Engineer specializing in Data Science, Artificial Intelligence, Machine Learning, Deep Learning. With a huge combinations of many MLOPS and DEVOPS.</h3>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
@@ -22,7 +22,6 @@
 <a href="https://linkedin.com/in/nishant-4b9528237" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="nishant-4b9528237" height="30" width="40" /></a>
 <a href="https://instagram.com/thakur_nishant_0001" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thakur_nishant_0001" height="30" width="40" /></a>
 </a>
-
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
