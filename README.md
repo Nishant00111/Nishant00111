@@ -2,7 +2,7 @@
 
 <div align="center">
     <h1>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=I'm+Mohan+Krishna;This+is..;..my+Github..;" alt="Typing SVG"/>
+        <img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=I'm+Nishant;This+is..;..my+Github..;" alt="Typing SVG"/>
     </h1>
 </div>
 <div align="center">
@@ -21,7 +21,7 @@
       <a href="https://nishant00111.github.io/portfolio/" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Portfolio&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="portfolio logo">
 </a>
-  <a href="mailto:mohankrishnagr08@gmail.com" >
+  <a href="mailto:nishant99885@gmail.com" >
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
 </div>
@@ -53,10 +53,8 @@
 </div>
 
 
-<!--
-**MohanKrishnaGR/MohanKrishnaGR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: 
 
 <!--**Nishant00111/Nishant00111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
