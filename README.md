@@ -53,7 +53,7 @@
   <img src="https://scikit-learn.org/stable/_static/scikit-learn-logo-small.png" title="Scikit-Learn" alt="Scikit-Learn" width="40" height="40"/>&nbsp;
  
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
-  <img src="https://avatars.githubusercontent.com/u/38140666?s=200&v=4" title="MLflow" alt="MLflow" width="40" height="40"/>&nbsp;
+  <img src="https://i.imgur.com/Hs1fYVc.png" title="MLflow" alt="MLflow" width="40" height="40"/>&nbsp;
 </div>
 
 
